@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**leandon/leandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YDLinStars/YDLinStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandon&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YDLinStars&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - ✨我是恒心，一名桂电的在校研究生。✨
 - C++开发的学习者，虽然才刚起步🤔，但是会努力加油的呀。
