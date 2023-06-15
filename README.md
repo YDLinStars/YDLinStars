@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YDLinStars&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 - ✨我是恒心，一名桂电的在校研究生。✨
 - C++开发的学习者，虽然才刚起步🤔，但是会努力加油的呀。
 - 😄 学习期间结实了好多大佬，希望自己可以追逐他们的脚步。
